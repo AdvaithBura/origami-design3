@@ -1,0 +1,65 @@
+html, body {
+    margin:0;
+    padding: 0;
+    border:solid;
+    border-color:#ff0000;
+  }
+
+.we2{
+  border:solid;
+  border-color:red;
+  border-radius:1000px;
+}
+.we1{
+  margin:0;
+  padding:0;
+  display:flex;
+  justify-content:center;
+
+  
+}
+
+.Header{display:flex; 
+  border:solid;
+  border-color:#0000ff;
+  justify-content:space-between; 
+  font-size:30px;
+  background-color:#ff0000; 
+  color:#0000ff;
+padding:10;
+}
+
+.gameStyle{border:solid; 
+  border-color:#ff0000; 
+  border-radius:30px; 
+  color:#ff0000;
+  font-family:sans-serif;
+margin:20
+}
+
+.theGameRow{background-color:black;
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:space-evenly;
+  padding:30
+}
+
+.Imageses{font-size:30px;
+   background-color:#000000;
+    color:#ff0000;
+    margin:0}
+
+    .centered{
+      display:flex;
+      justify-content:center;
+      padding:5;
+    }
+.social{
+  padding:10;
+  display:flex;
+  justify-content:flex-end;
+  font-size:35;
+  background-color:#000000;
+  border:solid;
+  border-color:#ff0000;
+}

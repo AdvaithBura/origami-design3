@@ -1,0 +1,18 @@
+body{
+    background-color:#ff0000;
+}
+
+.jqwer{
+border:solid;
+}
+
+.jqwe{
+    display:flex;
+    justify-content:center;
+    font-size:40
+}
+
+.jqwert{
+    display:flex;
+    justify-content:space-evenly;
+}
